@@ -7,7 +7,7 @@ export default function ContactUs() {
             Contact us
           </h1>
           <p className="mt-1 text-gray-600 dark:text-gray-400">
-            We'd love to talk about how we can help you.
+            We&apos;d love to talk about how we can help you.
           </p>
         </div>
       </div>
@@ -111,7 +111,7 @@ export default function ContactUs() {
             </div>
             <div className="mt-3 text-center">
               <p className="text-sm text-gray-500">
-                We'll get back to you in 1-2 business days.
+                We&apos;ll get back to you in 1-2 business days.
               </p>
             </div>
           </form>
@@ -140,7 +140,7 @@ export default function ContactUs() {
               Knowledgebase
             </h3>
             <p className="mt-1 text-gray-500">
-              We're here to help with any questions or code.
+              We&apos;re here to help with any questions or code.
             </p>
             <p className="mt-5 inline-flex items-center gap-x-2 font-medium text-blue-600 dark:text-blue-500">
               Contact support
